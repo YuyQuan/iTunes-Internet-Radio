@@ -1,0 +1,122 @@
+﻿#EXTM3U
+
+#EXTINF:-1, - CBS Sports Radio (CBS Sports radio network)
+http://playerservices.streamtheworld.com/pls/CBSSPORTSAAC.pls
+
+#EXTINF:-1, - CBS Sports Radio 1270 (Detroit's sports station)
+http://playerservices.streamtheworld.com/pls/WXYTAMAAC.pls
+
+#EXTINF:-1, - CBS Sports Radio 1300 (The flagship station of the fan)
+http://playerservices.streamtheworld.com/pls/WJZAMAAC.pls
+
+#EXTINF:-1, - CBS Sports Radio 1580 (CBS sports radio network)
+http://playerservices.streamtheworld.com/pls/WJFKAMAAC.pls
+
+#EXTINF:-1, - DOWNFORCE RADIO (The Nation's Motorsport Station)
+http://api.spreaker.com/listen/user/4807317/episode/latest/shoutcast.mp3
+
+#EXTINF:-1, - Ice Radio (La radio 100% glace - Toutes les infos du monde de la glace ! Les news du hockey, des patinoires et du patinage en exclusivité.)
+http://iceradiocom.ice.infomaniak.ch/iceradiocom-192.mp3
+
+#EXTINF:-1, - KHTK Sports 1140 (Proud Home Of The Sacramento Kings)
+http://playerservices.streamtheworld.com/pls/KHTKAMAAC.pls
+
+#EXTINF:-1, - KNBR 1050 (San Francisco's Sports Leader)
+http://provisioning.streamtheworld.com/pls/KTCTAMAAC.pls
+
+#EXTINF:-1, - KNBR 680 (San Francisco's Sports Leader)
+http://provisioning.streamtheworld.com/pls/KNBRAMAAC.pls
+
+#EXTINF:-1, - NRK Sport (Sport events)
+http://lyd.nrk.no/nrk_radio_sport_mp3_h.m3u
+
+#EXTINF:-1, - Patriots.com Radio (Official online radio station of the New England Patriots)
+https://nepatriots.streamguys1.com/live
+
+#EXTINF:-1, - Performance Motorsports Network (Performance Motorsports Network)
+http://ice6.securenetsystems.net/PERFMNET.m3u
+
+#EXTINF:-1, - Radio Mana' Mana' Sport (Tutto lo sport 24 ore)
+http://manasport.streamfm.it:8906
+
+#EXTINF:-1, - RPC Radio (Primera Emisora en Panamá fundada hace más de 68 años, con frecuencia 90.9 FM a nivel nacional y 106.3 FM para provincias, con la mayor cobertura ofrecida hasta el momento en una frecuencia radial. Ofrecemos a nuestros oyentes la información noticiosa)
+http://cdnlive.medcom.com.pa/rpcradio/live-mp3-source/icecast.audio
+
+#EXTINF:-1, - SportRadio.ca (Dedicated to cover LIVE events !)
+http://stream.radiojar.com/ezrw6c7pq3vtv.pls
+
+#EXTINF:-1, - Sports Radio 98.1 HD3 (Sports Radio 98.1 HD3)
+http://playerservices.streamtheworld.com/pls/KYKYHD3AAC.pls
+
+#EXTINF:-1, - SportsRadio 610 (SportsRadio 610 is Houston's #1 station for sports talk and more.)
+http://playerservices.streamtheworld.com/pls/KILTAMAAC.pls
+
+#EXTINF:-1, - SportsRadio 94WIP (Philadelphia's sports leader)
+http://playerservices.streamtheworld.com/pls/WIPFMAAC.pls
+
+#EXTINF:-1, - Stones Live! (Broadcasting Maidstone United and the Best Music 24/7)
+https://control.internet-radio.com:2199/tunein/stoneslive.pls
+
+#EXTINF:-1, - Textile River Regatta (Rowing Regatta on the Merrimack River in Lowell, MA)
+http://67.212.189.122:8217/listen.pls
+
+#EXTINF:-1, - WEEI Sports Radio Network (WEEI is New England's only regional sports radio network)
+http://playerservices.streamtheworld.com/pls/WEEIFMAAC.pls
+
+#EXTINF:-1, - WFAN Sports Radio 66AM & 101.9 FM New York (The Flagship Station for New York Sports, the Fan, Sports Radio 66, WFAN, New York)
+http://playerservices.streamtheworld.com/pls/WFANAMAAC.pls
+
+#EXTINF:-1, - WGFX-FM (104.5 The Zone) (Nashville's Sports Station)
+http://provisioning.streamtheworld.com/pls/WGFXFMAAC.pls
+
+#EXTINF:-1, - WNML-AM (The Sports Animal) (Knoxville's Sports Animal)
+http://provisioning.streamtheworld.com/pls/WNMLAMAAC.pls
+
+#EXTINF:-1, - 1043 The FAN (KKFN) (Denver's Sports Station 1043 The FAN)
+http://playerservices.streamtheworld.com/pls/KKFNFMAAC.pls
+
+#EXTINF:-1, - 105.3 The Fan (105.3 The Fan Sports Radio)
+http://playerservices.streamtheworld.com/pls/KRLDFMAAC.pls
+
+#EXTINF:-1, - 1057 The Fan (Covering the best in local sports, Sports Radio 105.7 The Fan, WJZ-FM)
+http://playerservices.streamtheworld.com/pls/WJZFMAAC.pls
+
+#EXTINF:-1, - 106.7 The Fan (Sportsradio 106.7 The Fan is the new radio station for D.C. sports fans. Our opinions are unbiased and unfiltered, and we never hold back.)
+http://playerservices.streamtheworld.com/pls/WJFKFMAAC.pls
+
+#EXTINF:-1, - 1070 The Fan WFNI (Indy's Sportscenter)
+http://provisioning.streamtheworld.com/pls/WFNIAM.pls
+
+#EXTINF:-1, - 12 oz. Sports Radio (Collection of sports podcasts and music from virtually unknown artist (copyright and royalty free artists).)
+http://stream.radiojar.com/0yd64dpvat5tv
+
+#EXTINF:-1, - 1500 ESPN (1500 ESPN is your Twin Cities sports station.)
+http://playerservices.streamtheworld.com/pls/KSTPAMAAC.pls
+
+#EXTINF:-1, - 560 WQAM Sports Radio (Miami Sports #THEQ)
+http://playerservices.streamtheworld.com/pls/WQAMAMAAC.pls
+
+#EXTINF:-1, - 670 The Score (Chicagos Original All-Sports Station & the flagship of the Chicago White Sox)
+http://playerservices.streamtheworld.com/pls/WSCRAMAAC.pls
+
+#EXTINF:-1, - 92.3 The Fan (Cleveland's new home for sports!)
+http://playerservices.streamtheworld.com/pls/WKRKFMAAC.pls
+
+#EXTINF:-1, - 92-9 The Game (Atlanta SportsRadio)
+http://playerservices.streamtheworld.com/pls/WZGCFMAAC.pls
+
+#EXTINF:-1, - 93-7 The Fan (Pittsburgh's Only FM Sports Radio Station!)
+http://playerservices.streamtheworld.com/pls/KDKAFMAAC.pls
+
+#EXTINF:-1, - 960 The REF (Athens Sports Leader)
+http://streaming.cmgdigital.com/ath960/ath960.aac
+
+#EXTINF:-1, - 97.1 The Ticket (Jay Towers and Bill McAllister in the Mornings and great sports talk all day long.)
+http://playerservices.streamtheworld.com/pls/WXYTFMAAC.pls
+
+#EXTINF:-1, - 97.5 The Fanatic (97.5 The Fanatic brings the city of Philadelphia a hip sports sound. Mike and Mike in the Morning drive you to work and Mike Missanelli drives you home.)
+http://playerservices.streamtheworld.com/pls/WPENFMMOBILE.pls
+
+#EXTINF:-1, - 98.5 The Sports Hub (Boston's latest addition to the dial and first ever FM Sports Talk station.)
+http://playerservices.streamtheworld.com/pls/WBZFMAAC.pls
+
